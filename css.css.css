@@ -1,0 +1,59 @@
+.body{
+    text-align: center;
+}
+h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    line-height: 26px;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    letter-spacing:0.25em ;
+}
+.logo{
+    text-align: center;
+    border: 8px solid #000000;
+    width: 310px;
+    height: 45px;
+    margin-top:66px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding-top:12px;
+}
+.navigation{
+    text-align: center;
+    margin-bottom: 60px;
+    font-weight: bold;
+}
+.navigation a{
+    margin-right:10px;
+    margin-left:10px;
+    color:#A7A4A4;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-size: 16px;
+}
+img{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+}
+.navigation .home{
+   color:black;
+   font-weight: bold;
+}
+.navigation .paris{
+   color:black;
+   font-weight: bold;
+}
+.navigation .seoul{
+   color:black;
+   font-weight: bold;
+}
+.navigation .tokyo{
+   color:black;
+   font-weight: bold;
+}
